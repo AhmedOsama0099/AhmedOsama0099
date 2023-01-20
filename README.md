@@ -100,7 +100,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td></tr></table>  
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AhmedOsama0099&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>  
 
